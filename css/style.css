@@ -1,0 +1,18 @@
+.banner-carousel h5{
+    font-size: 3vw;
+}
+.banner-carousel small{
+    font-size: 2vw;
+}
+/* package button */
+.package-area{
+    border-radius: 26px;
+    max-width: 292px; 
+}
+.package-btn{
+    padding: 13px 62px;
+}
+.footer-icons img{
+    width: 135px;
+    height: 40px;
+}
